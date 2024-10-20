@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+
+.logo {
+    width: 250px; /* Adjust the width to your preference */
+    height: auto; /* Maintains aspect ratio */
+}
+
+.profile {
+    width: 70px; /* Adjust the size based on your preference */
+    height: 70px; /* Make it square if you want */
+    border-radius: 50%; /* Make the profile image circular */
+}
